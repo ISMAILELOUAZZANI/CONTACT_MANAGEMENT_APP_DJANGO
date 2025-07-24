@@ -29,7 +29,7 @@ python manage.py createsuperuser
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
-#### Saad Hassan
+#### ISMAILELOUAZZANI
 [![LinkedIn Link](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/ISMAILELOUAZZANI)
 
